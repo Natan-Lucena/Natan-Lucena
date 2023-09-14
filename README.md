@@ -17,7 +17,7 @@
 -  I lose some time letting the things ✨*pretty* ✨ and solving some 🐛*bugs*🐛
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=Natan-Lucena&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height=170 align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Natan-Lucena&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=170 align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=Natan-Lucena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
