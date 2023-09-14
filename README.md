@@ -7,8 +7,18 @@
 
 ## My name is Natan Lucena
 
-(Node.js | JavaScript | TypeScript | Java | Spring ) 🚀
+(Node.js | JavaScript | TypeScript | Java | Spring | MySQL | Postgress ) 🚀
 
 
 - information systems student - Federal University of Ceará
-- I am 19 years old, I started programming in early 2022 and I am studying to become a Back-End developer.
+- I am 19 years old, I started programming in early 2022 and I am studying to become a Back-End developer 😎
+- Check some of my personal projects 😃
+- Ask me anything about Back-end Development and Football
+-  I lose some time letting the things ✨*pretty* ✨ and solving some 🐛*bugs*🐛
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Natan-Lucena&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Natan-Lucena&layout=compact&langs_count=8&card_width=320" />
+</a>
