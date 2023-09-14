@@ -20,7 +20,7 @@
   <img height=170 align="center" width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=Natan-Lucena&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" width=410 src="https://github-readme-stats.vercel.app/api?username=Natan-Lucena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height=170 align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=Natan-Lucena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </a>
 
 
