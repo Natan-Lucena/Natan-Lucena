@@ -17,11 +17,13 @@
 -  I lose some time letting the things ✨*pretty* ✨ and solving some 🐛*bugs*🐛
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Natan-Lucena&show_icons=true&theme=radical" />
+  <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Natan-Lucena&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Natan-Lucena&layout=compact&langs_count=8&card_width=365" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Natan-Lucena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </a>
+
+
 
 <div style="display: inline_block"><br>  
  
@@ -35,6 +37,7 @@
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </div>
+
           
 
           
