@@ -20,5 +20,5 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Natan-Lucena&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Natan-Lucena&layout=compact&langs_count=8&card_width=350" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Natan-Lucena&layout=compact&langs_count=8&card_width=365" />
 </a>
