@@ -3,7 +3,7 @@
 <h1> Hello! </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sammyferreira1/)](https://www.linkedin.com/in/natan-lucena-b46b3926a/)
-[![Gmail Badge](https://img.shields.io/badge/-ZeroGamerPTBR@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zerogamerptbr@gmail.com)](mailto:zerogamerptbr@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zerogamerptbr@gmail.com)](mailto:zerogamerptbr@gmail.com)
 
 ## My name is Natan Lucena
 
