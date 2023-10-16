@@ -7,7 +7,7 @@
 
 ## My name is Natan Lucena
 
-(Node.js | JavaScript | TypeScript | Java | Spring | MySQL | Postgress ) 🚀
+(Node.js | JavaScript | TypeScript | Java | Spring | MySQL | Postgress | REST ) 🚀
 
 
 - information systems student - Federal University of Ceará
