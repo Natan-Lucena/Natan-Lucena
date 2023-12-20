@@ -10,7 +10,7 @@
 (Node.js | JavaScript | TypeScript | Java | Spring | MySQL | Postgress | REST ) 🚀
 
 
-- information systems student - Federal University of Ceará
+- Software Engineering student - Federal University of Ceará
 - I am 19 years old, I started programming in early 2022 and I am studying to become a Back-End developer 😎
 - Check some of my personal projects 😃
 - Ask me anything about Back-end Development and Football
