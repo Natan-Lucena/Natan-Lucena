@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-lucena/)](https://www.linkedin.com/in/natan-lucena/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zerogamerptbr@gmail.com)](mailto:zerogamerptbr@gmail.com)
 
-## I Am Natan Lucena
+## My Name is Natan Lucena
 
 (Node.js | JavaScript | TypeScript | Java | Spring | MySQL | Postgress | REST ) 🚀
 
