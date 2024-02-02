@@ -7,7 +7,7 @@
 
 ## My Name is Natan Lucena
 
-(Node.js | Spring | JavaScript | TypeScript | Java | Express | Nest | Spring Boot | MySQL | Postgress | MongoDB | REST ) 🚀
+(Node.js | Spring | JavaScript | TypeScript | Java | Express | Nest | Spring Boot | MySQL | Postgress | MongoDB | ORMs |REST ) 🚀
 
 
 - Software Engineering student - Federal University of Ceará
