@@ -11,7 +11,7 @@
 
 
 - Software Engineering student - Federal University of Ceará
-- I am 20 years old, I started programming in early 2022 and I am studying to become a Back-End developer 😎
+- I am 20 years old, I started programming in early 2022 and I am studying to improve my skills as Back-End Engineer 😎
 - Check some of my personal projects 😃
 - Ask me anything about Back-end Development and Football
 -  I lose some time letting the things ✨*pretty* ✨ and solving some 🐛*bugs*🐛
