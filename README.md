@@ -19,11 +19,6 @@
  <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Natan-Lucena&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=Natan-Lucena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</a>
-
-
 
 <div style="display: inline_block"><br>  
  
