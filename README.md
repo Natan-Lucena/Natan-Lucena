@@ -15,12 +15,10 @@
 - Ask me anything about Back-end Development and Football
 - I lose some time letting the things ✨*pretty* ✨ and solving some 🐛*bugs*🐛
 
- <a  href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=170 align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Natan-Lucena&layout=compact&langs_count=7&theme=tokyonight" />
-</a>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Natan-Lucena?label=Followers&style=for-the-badge&color=6633cc" />
-  <img src="https://img.shields.io/github/stars/Natan-Lucena?label=Stars&style=for-the-badge&color=6633cc" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height=170 width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Natan-Lucena&layout=compact&langs_count=7&theme=tokyonight" />
+  </a>
 </p>
 
 <div style="display: inline_block"><br>
